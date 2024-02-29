@@ -1,0 +1,14 @@
+body, html {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin: 0px;
+    height: 100%;
+}
+
+#digiLabel {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: orange;
+}
